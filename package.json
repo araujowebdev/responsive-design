@@ -1,0 +1,19 @@
+{
+  "name": "sass-bem-responsivedesign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/araujowebdev/Sass-BEM-ResponsiveDesign.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/araujowebdev/Sass-BEM-ResponsiveDesign/issues"
+  },
+  "homepage": "https://github.com/araujowebdev/Sass-BEM-ResponsiveDesign#readme"
+}
